@@ -14,7 +14,7 @@ Streamlit is a Python framework for quickly building interactive web apps for da
 
 Below is a diagram to help visualize the architecture:
 
-[![1787 U.S. Constitution RAG app implementation flow](assets/rag-implementation-flow.png)](https://raw.githubusercontent.com/reyarqueza/ollama-crash-course/main/assets/rag-implementation-flow.png)
+[![1787 U.S. Constitution RAG app implementation flow](assets/rag-implementation-flow.png)](https://raw.githubusercontent.com/reyarqueza/hybrid-rag-app/main/assets/rag-implementation-flow.png)
 
 ## Stack Overview
 
